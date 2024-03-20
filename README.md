@@ -21,7 +21,7 @@ Caso for de sua preferência é possível mudar a porcentagem de dados utilizado
 
 ## Tecnologias Usadas
 - pandas
-- sklearn
+- sklearn<br>
      → LabelEncoder<br>
      → train_test_split<br>
      → RandomForestClassifier<br>
